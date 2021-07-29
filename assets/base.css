@@ -19,7 +19,7 @@
   --color-foreground: var(--color-base-solid-button-labels);
   --color-background: var(--color-base-accent-1);
 }
-
+/* Change made*/
 .color-accent-2 {
   --color-foreground: var(--color-base-solid-button-labels);
   --color-background: var(--color-base-accent-2);
